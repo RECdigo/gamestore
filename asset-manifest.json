@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/gamestore/static/css/main.50135ed4.css",
+    "main.js": "/gamestore/static/js/main.5b863d0f.js",
+    "static/js/453.27b5e3e7.chunk.js": "/gamestore/static/js/453.27b5e3e7.chunk.js",
+    "static/media/lol-bg.jpeg": "/gamestore/static/media/lol-bg.b999419c0b412de92458.jpeg",
+    "static/media/king-of-fighters-xv.jpeg": "/gamestore/static/media/king-of-fighters-xv.be0be51b18b29f44ac6d.jpeg",
+    "static/media/halo-infinite-bg.jpeg": "/gamestore/static/media/halo-infinite-bg.123cd98420daecc5ed02.jpeg",
+    "static/media/dota-2-bg.jpg": "/gamestore/static/media/dota-2-bg.598efb4855aa0da8a37b.jpg",
+    "static/media/diablo-3-bg.jpeg": "/gamestore/static/media/diablo-3-bg.97a606281293f3f8d17b.jpeg",
+    "static/media/mario-bg.jpeg": "/gamestore/static/media/mario-bg.6d5b65c27e7828f45d7d.jpeg",
+    "static/media/fortnite-bg.jpeg": "/gamestore/static/media/fortnite-bg.61c5373b5f6cb85a63c4.jpeg",
+    "static/media/bootstrap-icons.woff?": "/gamestore/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/forza-horizon-5-bg.jpeg": "/gamestore/static/media/forza-horizon-5-bg.077a50fc73fe46a51135.jpeg",
+    "static/media/bootstrap-icons.woff2?": "/gamestore/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/gamestore/index.html",
+    "main.50135ed4.css.map": "/gamestore/static/css/main.50135ed4.css.map",
+    "main.5b863d0f.js.map": "/gamestore/static/js/main.5b863d0f.js.map",
+    "453.27b5e3e7.chunk.js.map": "/gamestore/static/js/453.27b5e3e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50135ed4.css",
+    "static/js/main.5b863d0f.js"
+  ]
+}
